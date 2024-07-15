@@ -5,3 +5,5 @@
 - Script(dynamicJsonLibraryAPI.java) demonstrates API automation to handle dynamic json using parametrization of tests to run independently for different sets of test data.
 - Configured to run with Junit
 - Standalone tests not integrated with any automation frameowrk
+
+If you have any questions, please contact me on neenyk18@gmail.com
